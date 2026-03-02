@@ -1,8 +1,7 @@
 # 📊 Olist E-commerce Analytics & Data Engineering
 
-<p align="center">
-  <img src="assets/demo.webp" alt="Demonstração do Jupyter rodando ETL e queries SQL em tempo real" width="800">
-</p>
+![Demonstração do Jupyter rodando ETL e queries SQL em tempo real](assets/demo.webp)
+![Dashboard Executivo Final no Power BI](assets/dashboard.png)
 
 Projeto de portfólio de ponta a ponta (End-to-End) focado na análise do dataset público de e-commerce da Olist Store Brasileira. O projeto engloba todas as etapas de um ciclo analítico moderno: Ingestão de Dados Automatizada (ETL/ELT), Modelagem de Data Warehouse (PostgreSQL) e Visualização de Negócios (Power BI).
 
