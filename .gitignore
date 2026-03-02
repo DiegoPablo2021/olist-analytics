@@ -1,0 +1,15 @@
+# Ambientes Virtuais e Caches Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Variáveis de Ambiente e Credenciais Seguras
+.env
+
+# Arquivos de Dados Massivos (Para não estourar o limite de 100MB do GitHub)
+data/*.csv
+
+# Logs do Sistema Operacional
+.DS_Store
+Thumbs.db
